@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.vectorstock.com/i/500p/39/11/programming-and-software-development-web-page-vector-30433911.jpg)
-<h1 align="center">Hi 👋, I'm Samuel Fentie</h1>
-<img align='right' alt='Coding' width='400' src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif'/><h1 align="center">Hi 👋, I'm Samuel Fentie fullstack system developer/ System Admin</h1>
+<h1 align="center">Hi 👋, I'm Samuel Fentie fullstack system developer/ System Admin</h1>
+<img align='right' alt='Coding' width='400' src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif'/><h1 align="center"></h1>
 - 🔭 I’m currently working on **Full-stack web development.**
 
 - 🌱 I’m currently learning **RAG and Finetuning LLMs.**
