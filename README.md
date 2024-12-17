@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samuelfentie55@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio.neteb.com](https://portfolio.neteb.com)
+- 📄 Know about my experiences [https://portfolio.netebtech.com/](https://portfolio.netebtech.com/)
 
 - ⚡ Fun fact **I think I am funny.**
 
